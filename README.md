@@ -15,7 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-28**|**Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection**|Travis Lelle et.al.|[2605.30189](http://arxiv.org/abs/2605.30189)|**[link](https://github.com/Travis-ML/lora-backdoors)**|
+|**2026-05-29**|**From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors**|Jiejun Tan et.al.|[2605.31042](http://arxiv.org/abs/2605.31042)|null|
+|**2026-05-29**|**Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense**|Shuhao Zhang et.al.|[2605.30837](http://arxiv.org/abs/2605.30837)|null|
+|**2026-05-28**|**Automatically Attacking Software Reverse Engineering AI Agents**|Brian Crawford et.al.|[2605.30667](http://arxiv.org/abs/2605.30667)|null|
+|**2026-05-28**|**When AI Meets Wall Street: A Survey on Trustworthy AI in Fintech**|Qingwen Zeng et.al.|[2605.30650](http://arxiv.org/abs/2605.30650)|null|
+|**2026-05-28**|**Strengthening Polymorphic Prompt Assembling: Dynamic Separator Generation Against Emerging Prompt Injection Attacks**|Nima Dorzhiev et.al.|[2605.30534](http://arxiv.org/abs/2605.30534)|null|
+|**2026-05-28**|**The Surface You Test Is Not the Surface That Breaks**|Shifat E Arman et.al.|[2605.30454](http://arxiv.org/abs/2605.30454)|null|
+|**2026-05-28**|**Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection**|Travis Lelle et.al.|[2605.30189](http://arxiv.org/abs/2605.30189)|null|
 |**2026-05-28**|**Minimal Prompt Perturbations Lead to Code Vulnerabilities: Prompt Fragility and Hidden-State Signals in Coding LLMs**|Alexander Sternfeld et.al.|[2605.29737](http://arxiv.org/abs/2605.29737)|null|
 |**2026-05-27**|**Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening**|Mohan Zhang et.al.|[2605.28999](http://arxiv.org/abs/2605.28999)|null|
 |**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893](http://arxiv.org/abs/2605.28893)|null|
