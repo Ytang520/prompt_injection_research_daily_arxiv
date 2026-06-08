@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills**|Wenbo Guo et.al.|[2606.07131](http://arxiv.org/abs/2606.07131)|null|
 |**2026-06-04**|**GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection**|Paulo Ricardo Ferreira Neves et.al.|[2606.05566](http://arxiv.org/abs/2606.05566)|null|
 |**2026-06-03**|**Hybrid Adversarial Defence for Natural Language Understanding Tasks**|Manar Abouzaid et.al.|[2606.04612](http://arxiv.org/abs/2606.04612)|null|
 |**2026-06-03**|**What If Prompt Injection Never Left? Exploring Cross-Session Stored Prompt Injection in Agentic Systems**|Yuanbo Xie et.al.|[2606.04425](http://arxiv.org/abs/2606.04425)|null|
