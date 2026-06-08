@@ -1,4 +1,4 @@
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -486,7 +486,7 @@
 |**2024-10-18**|**Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models**|Cody Clop et.al.|[2410.14479](http://arxiv.org/abs/2410.14479)|null|
 |**2025-02-10**|**LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild**|Reworr et.al.|[2410.13919](http://arxiv.org/abs/2410.13919)|null|
 |**2024-10-17**|**SPIN: Self-Supervised Prompt INjection**|Leon Zhou et.al.|[2410.13236](http://arxiv.org/abs/2410.13236)|null|
-|**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|null|
+|**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/Noykarde/NoykardeRepository)**|
 |**2025-07-02**|**Large Language Models, and LLM-Based Agents, Should Be Used to Enhance the Digital Public Sphere**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
 |**2025-03-01**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
 |**2024-10-14**|**F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents**|Yupeng Ren et.al.|[2410.08776](http://arxiv.org/abs/2410.08776)|null|
@@ -569,7 +569,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -649,5 +649,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
