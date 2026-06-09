@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**PRISM: Recovering Instruction Sets from Language Model Activations**|Gilad Gressel et.al.|[2606.09563](http://arxiv.org/abs/2606.09563)|null|
+|**2026-06-08**|**Brain-Prompt Injection: A Route-Safety Audit for BCI-LLM Agents**|Jianwei Tai et.al.|[2606.09315](http://arxiv.org/abs/2606.09315)|null|
+|**2026-06-08**|**The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection**|Hyunseok Paeng et.al.|[2606.09204](http://arxiv.org/abs/2606.09204)|null|
 |**2026-06-07**|**Hiding in Plain Floats: Steganographic Carriers for Indirect Prompt and Content Injection**|Mudit Sinha et.al.|[2606.08403](http://arxiv.org/abs/2606.08403)|null|
 |**2026-06-05**|**MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills**|Wenbo Guo et.al.|[2606.07131](http://arxiv.org/abs/2606.07131)|null|
 |**2026-06-04**|**GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection**|Paulo Ricardo Ferreira Neves et.al.|[2606.05566](http://arxiv.org/abs/2606.05566)|null|
