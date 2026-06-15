@@ -507,10 +507,10 @@
 |**2025-03-01**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
 |**2024-10-14**|**F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents**|Yupeng Ren et.al.|[2410.08776](http://arxiv.org/abs/2410.08776)|null|
 |**2024-10-09**|**Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**|Donghyun Lee et.al.|[2410.07283](http://arxiv.org/abs/2410.07283)|null|
-|**2025-07-03**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|null|
+|**2025-07-03**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/SecAlign)**|
 |**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|null|
 |**2025-04-09**|**LLM Safeguard is a Double-Edged Sword: Exploiting False Positives for Denial-of-Service Attacks**|Qingzhao Zhang et.al.|[2410.02916](http://arxiv.org/abs/2410.02916)|null|
-|**2025-05-30**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|null|
+|**2025-05-30**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/TongWang121/agent-security-bench)**|
 |**2024-09-29**|**GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks**|Rongchang Li et.al.|[2409.19521](http://arxiv.org/abs/2409.19521)|null|
 |**2024-10-10**|**System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective**|Fangzhou Wu et.al.|[2409.19091](http://arxiv.org/abs/2409.19091)|null|
 |**2025-04-03**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|null|
