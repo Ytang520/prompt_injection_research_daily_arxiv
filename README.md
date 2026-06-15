@@ -1,4 +1,4 @@
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails**|Yuguang Zhou et.al.|[2606.14517](http://arxiv.org/abs/2606.14517)|null|
+|**2026-06-12**|**SkillMutator: Benchmarking and Defending Language-and-Code Cross-modal Attacks on LLM Agent Skills**|Youngduk Kim et.al.|[2606.14154](http://arxiv.org/abs/2606.14154)|null|
 |**2026-06-11**|**Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents**|Zihao Wang et.al.|[2606.13385](http://arxiv.org/abs/2606.13385)|null|
 |**2026-06-11**|**Nous: An Attempt to Extract and Inject the Cognition Behind Prediction-Market Behavior**|Haowei Qian et.al.|[2606.13038](http://arxiv.org/abs/2606.13038)|null|
 |**2026-06-10**|**PI-Hunter: Automated Red-Teaming for Exposing and Localizing Prompt Injections**|Pengfei He et.al.|[2606.12737](http://arxiv.org/abs/2606.12737)|null|
@@ -583,7 +585,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -664,5 +666,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
