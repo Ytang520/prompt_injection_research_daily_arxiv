@@ -15,11 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034](http://arxiv.org/abs/2606.17034)|null|
 |**2026-06-14**|**SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills**|Ismail Hossain et.al.|[2606.15899](http://arxiv.org/abs/2606.15899)|null|
 |**2026-06-14**|**GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking**|Aman Anifer et.al.|[2606.15788](http://arxiv.org/abs/2606.15788)|null|
 |**2026-06-14**|**FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion**|Zixin Rao et.al.|[2606.15609](http://arxiv.org/abs/2606.15609)|null|
 |**2026-06-13**|**Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment**|Lipeng He et.al.|[2606.15441](http://arxiv.org/abs/2606.15441)|null|
-|**2026-06-13**|**AutoDojo: Adaptive Attacks Expose Superficial Defenses and User-Underspecification Limits in LLM Agents**|Xinhang Ma et.al.|[2606.15057](http://arxiv.org/abs/2606.15057)|**[link](https://github.com/xhOwenMa/AutoDojo)**|
+|**2026-06-13**|**AutoDojo: Adaptive Attacks Expose Superficial Defenses and User-Underspecification Limits in LLM Agents**|Xinhang Ma et.al.|[2606.15057](http://arxiv.org/abs/2606.15057)|null|
 |**2026-06-12**|**Security Engineering of OpenClaw: Analyzing Attack Surface Expansion and Trust-Boundary Violations**|Saeid Jamshidi et.al.|[2606.15008](http://arxiv.org/abs/2606.15008)|null|
 |**2026-06-12**|**From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails**|Yuguang Zhou et.al.|[2606.14517](http://arxiv.org/abs/2606.14517)|null|
 |**2026-06-12**|**SkillMutator: Benchmarking and Defending Language-and-Code Cross-modal Attacks on LLM Agent Skills**|Youngduk Kim et.al.|[2606.14154](http://arxiv.org/abs/2606.14154)|null|
