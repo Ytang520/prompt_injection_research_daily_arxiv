@@ -15,9 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Detecting Malicious Agent Skills in the Wild using Attention**|Bacem Etteib et.al.|[2606.23416](http://arxiv.org/abs/2606.23416)|null|
+|**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
+|**2026-06-19**|**Safe to Check, Unsafe to Use: Relinking at the Compression Boundary of LLM Agents**|Zesen Liu et.al.|[2606.21732](http://arxiv.org/abs/2606.21732)|null|
 |**2026-06-19**|**AgenticOS: An Intent-Oriented Secure Operating System Architecture for Autonomous AI Agents**|Zhen Zhao et.al.|[2606.21129](http://arxiv.org/abs/2606.21129)|null|
 |**2026-06-19**|**Local LLM Agents as Vulnerable Runtimes:A Source-Code Audit of the Agent Runtime Layer**|Zhengsong Zhang et.al.|[2606.21071](http://arxiv.org/abs/2606.21071)|null|
-|**2026-06-18**|**Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**|Shanghao Shi et.al.|[2606.20922](http://arxiv.org/abs/2606.20922)|**[link](https://github.com/shishishi123/Tool-Guard)**|
+|**2026-06-18**|**Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**|Shanghao Shi et.al.|[2606.20922](http://arxiv.org/abs/2606.20922)|null|
 |**2026-06-18**|**Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems**|Reza Soosahabi et.al.|[2606.20470](http://arxiv.org/abs/2606.20470)|null|
 |**2026-06-17**|**A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots**|Gulshan Saleem et.al.|[2606.19660](http://arxiv.org/abs/2606.19660)|null|
 |**2026-06-17**|**Analyzing the Narration Gap in LLM-Solver Loops**|Zunchen Huang et.al.|[2606.19588](http://arxiv.org/abs/2606.19588)|null|
@@ -609,6 +612,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents**|Yanhang Li et.al.|[2606.22864](http://arxiv.org/abs/2606.22864)|null|
+|**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
 |**2026-06-16**|**MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents**|Xuelong Dai et.al.|[2606.20717](http://arxiv.org/abs/2606.20717)|null|
 |**2026-06-13**|**Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades**|Zhongye Liu et.al.|[2606.15308](http://arxiv.org/abs/2606.15308)|null|
 |**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
