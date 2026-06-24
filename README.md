@@ -1,4 +1,4 @@
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-23**|**Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees**|Yedidel Louck et.al.|[2606.24322](http://arxiv.org/abs/2606.24322)|null|
 |**2026-06-22**|**Detecting Malicious Agent Skills in the Wild using Attention**|Bacem Etteib et.al.|[2606.23416](http://arxiv.org/abs/2606.23416)|null|
 |**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
 |**2026-06-19**|**Safe to Check, Unsafe to Use: Relinking at the Compression Boundary of LLM Agents**|Zesen Liu et.al.|[2606.21732](http://arxiv.org/abs/2606.21732)|null|
@@ -606,7 +607,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -691,5 +692,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
