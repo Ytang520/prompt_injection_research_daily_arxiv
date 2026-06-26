@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings**|Preet Baxi et.al.|[2606.27287](http://arxiv.org/abs/2606.27287)|null|
 |**2026-06-25**|**Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents**|Nada Lahjouji et.al.|[2606.26627](http://arxiv.org/abs/2606.26627)|null|
 |**2026-06-25**|**Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents**|Praneeth Narisetty et.al.|[2606.26479](http://arxiv.org/abs/2606.26479)|null|
 |**2026-06-24**|**Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats**|Poojitha Thota et.al.|[2606.26377](http://arxiv.org/abs/2606.26377)|null|
