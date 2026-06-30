@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Forensic Trajectory Signatures for Agent Memory Poisoning Detection**|Jun Wen Leong et.al.|[2606.30566](http://arxiv.org/abs/2606.30566)|null|
+|**2026-06-29**|**IHDec: Divergence-Steered Contrastive Decoding for Securing Multi-Turn Instruction Hierarchies**|Nicole Geumheon Liu et.al.|[2606.29960](http://arxiv.org/abs/2606.29960)|null|
+|**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
 |**2026-06-28**|**Agent Security Meets Regulatory Reality -- A Practitioner Systematization of Autonomous-Agent Threats and Controls in Regulated Financial Systems**|Krishna Mohan et.al.|[2606.29142](http://arxiv.org/abs/2606.29142)|null|
 |**2026-06-27**|**From Determinism to Delegation: AI-Native Software Engineering and the Evolution of the Agentic Engineer**|Mamdouh Alenezi et.al.|[2606.28791](http://arxiv.org/abs/2606.28791)|null|
 |**2026-06-25**|**On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models**|Dewank Pant et.al.|[2606.27567](http://arxiv.org/abs/2606.27567)|null|
