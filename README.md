@@ -273,8 +273,8 @@
 |**2026-01-18**|**Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs**|Anirudh Sekar et.al.|[2601.12359](http://arxiv.org/abs/2601.12359)|null|
 |**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|null|
 |**2026-01-15**|**Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale**|Yi Liu et.al.|[2601.10338](http://arxiv.org/abs/2601.10338)|null|
-|**2026-01-15**|**ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack**|Hao Li et.al.|[2601.10173](http://arxiv.org/abs/2601.10173)|null|
-|**2026-01-15**|**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**|Yutao Mou et.al.|[2601.10156](http://arxiv.org/abs/2601.10156)|null|
+|**2026-01-15**|**ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack**|Hao Li et.al.|[2601.10173](http://arxiv.org/abs/2601.10173)|**[link](https://github.com/leolee99/ReasAlign)**|
+|**2026-01-15**|**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**|Yutao Mou et.al.|[2601.10156](http://arxiv.org/abs/2601.10156)|**[link](https://github.com/MurrayTom/ToolSafe)**|
 |**2026-02-10**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multistep Malware Delivery Mechanism**|Oleg Brodt et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|null|
 |**2025-12-21**|**Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness**|Haotian Deng et.al.|[2601.08843](http://arxiv.org/abs/2601.08843)|null|
 |**2026-01-13**|**BenchOverflow: Measuring Overflow in Large Language Models via Plain-Text Prompts**|Erin Feiglin et.al.|[2601.08490](http://arxiv.org/abs/2601.08490)|null|
@@ -408,7 +408,7 @@
 |**2026-01-07**|**Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools**|Kanghua Mo et.al.|[2508.02110](http://arxiv.org/abs/2508.02110)|null|
 |**2025-11-18**|**AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection**|Peiran Wang et.al.|[2508.01249](http://arxiv.org/abs/2508.01249)|null|
 |**2025-08-01**|**LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks**|Francesco Panebianco et.al.|[2508.00602](http://arxiv.org/abs/2508.00602)|null|
-|**2026-02-23**|**Role-Aware Language Models for Secure and Contextualized Access Control in Organizations**|Saeed Almheiri et.al.|[2507.23465](http://arxiv.org/abs/2507.23465)|null|
+|**2026-02-23**|**Role-Aware Language Models for Secure and Contextualized Access Control in Organizations**|Saeed Almheiri et.al.|[2507.23465](http://arxiv.org/abs/2507.23465)|**[link](https://github.com/SaeedAlmheiri/role-aware-llm)**|
 |**2025-12-12**|**Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems**|Lijia Liu et.al.|[2507.23453](http://arxiv.org/abs/2507.23453)|null|
 |**2025-07-28**|**Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition**|Andy Zou et.al.|[2507.20526](http://arxiv.org/abs/2507.20526)|null|
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
@@ -637,7 +637,7 @@
 |**2026-05-27**|**MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content**|Ruoqi Guo et.al.|[2605.28116](http://arxiv.org/abs/2605.28116)|null|
 |**2026-05-27**|**Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security**|Xiang Fang et.al.|[2605.27823](http://arxiv.org/abs/2605.27823)|null|
 |**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
-|**2026-05-22**|**MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio**|Qingcao Li et.al.|[2605.23201](http://arxiv.org/abs/2605.23201)|null|
+|**2026-05-22**|**MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio**|Qingcao Li et.al.|[2605.23201](http://arxiv.org/abs/2605.23201)|**[link](https://github.com/saltfish233/MixFake)**|
 |**2026-05-15**|**A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation**|Hao Yang et.al.|[2605.16090](http://arxiv.org/abs/2605.16090)|null|
 |**2026-06-10**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-12**|**Agents Should Replace Narrow Predictive AI as the Orchestrator in 6G AI-RAN**|Pranshav Gajjar et.al.|[2605.11516](http://arxiv.org/abs/2605.11516)|null|
