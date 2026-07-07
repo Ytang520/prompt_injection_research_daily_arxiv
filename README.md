@@ -15,10 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Agent Data Injection Attacks are Realistic Threats to AI Agents**|Woohyuk Choi et.al.|[2607.05120](http://arxiv.org/abs/2607.05120)|null|
+|**2026-07-05**|**Biological Motifs for Agentic Control**|Bogdan Banu et.al.|[2607.04240](http://arxiv.org/abs/2607.04240)|null|
+|**2026-07-05**|**Unsupervised Features Mining via Activation Geometry**|Amit LeVi et.al.|[2607.04222](http://arxiv.org/abs/2607.04222)|null|
+|**2026-07-04**|**DualView: Preventing Indirect Prompt Injection in Personal AI Agents**|Juhee Kim et.al.|[2607.03821](http://arxiv.org/abs/2607.03821)|null|
 |**2026-07-01**|**Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity**|Brett Reynolds et.al.|[2607.01153](http://arxiv.org/abs/2607.01153)|null|
 |**2026-06-30**|**Beyond Wireless Security: Covert Communications in Large Language Model-enabled Edge Networks**|Yuanai Xie et.al.|[2606.31016](http://arxiv.org/abs/2606.31016)|null|
 |**2026-06-29**|**Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense**|Mitchell Hermon et.al.|[2606.30783](http://arxiv.org/abs/2606.30783)|null|
-|**2026-06-29**|**Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens**|Peizhi Niu et.al.|[2606.30755](http://arxiv.org/abs/2606.30755)|**[link](https://github.com/Kilroy-pain/understanding-and-evaluating-claw-like-agent-security-through-a-computer-systems-lens)**|
+|**2026-06-29**|**Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens**|Peizhi Niu et.al.|[2606.30755](http://arxiv.org/abs/2606.30755)|null|
 |**2026-06-29**|**Forensic Trajectory Signatures for Agent Memory Poisoning Detection**|Jun Wen Leong et.al.|[2606.30566](http://arxiv.org/abs/2606.30566)|null|
 |**2026-06-29**|**IHDec: Divergence-Steered Contrastive Decoding for Securing Multi-Turn Instruction Hierarchies**|Nicole Geumheon Liu et.al.|[2606.29960](http://arxiv.org/abs/2606.29960)|null|
 |**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
