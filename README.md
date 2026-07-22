@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
 |**2026-07-21**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
-|**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|null|
+|**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|**[link](https://github.com/Artlands/TCUB)**|
 |**2026-07-20**|**Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security**|Devina Jain et.al.|[2607.18063](http://arxiv.org/abs/2607.18063)|null|
 |**2026-07-19**|**Persistent Sparse Autoencoders: Learning Feature Timescales in Language Models**|Haoyan Luo et.al.|[2607.17117](http://arxiv.org/abs/2607.17117)|null|
 |**2026-07-17**|**Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization**|Yu Cui et.al.|[2607.15977](http://arxiv.org/abs/2607.15977)|null|
