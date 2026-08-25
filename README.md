@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**AgentFlow: A Flow-Centric Policy Language and Framework for Securing LLM Agent Systems**|Basavesh Ammanaghatta Shivakumar et.al.|[2608.22868](http://arxiv.org/abs/2608.22868)|null|
+|**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|**[link](https://github.com/xaddwell/AEGIS)**|
+|**2026-08-21**|**Mitigating Database Leakage in RAG Systems with Keyword-Grounded Fact Substitution**|Ziliang Zhang et.al.|[2608.21656](http://arxiv.org/abs/2608.21656)|null|
+|**2026-08-21**|**SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation**|Yibo Peng et.al.|[2608.21500](http://arxiv.org/abs/2608.21500)|null|
 |**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
 |**2026-08-15**|**BioFirewall: A genome-writing-native governance layer for design-stage biosecurity screening of agentic AI**|Anees Ahmed Mahaboob Ali et.al.|[2608.20413](http://arxiv.org/abs/2608.20413)|null|
 |**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
