@@ -1,4 +1,4 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**LongPIBench: A Long-Context Benchmark for Prompt Injection**|Yupei Liu et.al.|[2608.28411](http://arxiv.org/abs/2608.28411)|**[link](https://github.com/liu00222/LongPIBench)**|
+|**2026-08-28**|**CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?**|Zi Liang et.al.|[2608.27990](http://arxiv.org/abs/2608.27990)|null|
+|**2026-08-27**|**ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection**|Xinhang Ma et.al.|[2608.27496](http://arxiv.org/abs/2608.27496)|null|
 |**2026-08-27**|**The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents**|Md Habibur Rahman et.al.|[2608.27092](http://arxiv.org/abs/2608.27092)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
-|**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
+|**2026-08-28**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
 |**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|null|
 |**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
 |**2026-08-24**|**AgentFlow: A Flow-Centric Policy Language and Framework for Securing LLM Agent Systems**|Basavesh Ammanaghatta Shivakumar et.al.|[2608.22868](http://arxiv.org/abs/2608.22868)|null|
@@ -695,7 +698,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -787,5 +790,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
