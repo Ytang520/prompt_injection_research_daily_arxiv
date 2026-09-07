@@ -774,7 +774,7 @@
 |**2025-10-10**|**Text Prompt Injection of Vision Language Models**|Ruizhe Zhu et.al.|[2510.09849](http://arxiv.org/abs/2510.09849)|null|
 |**2026-04-09**|**Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents**|Renhua Ding et.al.|[2510.07809](http://arxiv.org/abs/2510.07809)|null|
 |**2025-10-06**|**Imperceptible Jailbreaking against Large Language Models**|Kuofeng Gao et.al.|[2510.05025](http://arxiv.org/abs/2510.05025)|null|
-|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|null|
+|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|**[link](https://github.com/PolyLiYJ/AgentTypo)**|
 |**2025-10-01**|**WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents**|Yinuo Liu et.al.|[2510.01354](http://arxiv.org/abs/2510.01354)|null|
 |**2025-09-19**|**EmoQ: Speech Emotion Recognition via Speech-Aware Q-Former and Large Language Model**|Yiqing Yang et.al.|[2509.15775](http://arxiv.org/abs/2509.15775)|null|
 |**2025-09-06**|**EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System**|Pavan Reddy et.al.|[2509.10540](http://arxiv.org/abs/2509.10540)|null|
