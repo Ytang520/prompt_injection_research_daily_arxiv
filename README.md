@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
 |**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
 |**2026-09-14**|**Approval Integrity and Recovery in LLM Answer Publication**|Faruk Alpay et.al.|[2609.15576](http://arxiv.org/abs/2609.15576)|null|
 |**2026-09-14**|**ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents**|Bingzheng Wang et.al.|[2609.14987](http://arxiv.org/abs/2609.14987)|null|
