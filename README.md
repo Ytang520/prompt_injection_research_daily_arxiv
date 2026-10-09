@@ -20,7 +20,7 @@
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
 |**2026-10-07**|**Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files**|Yupu Wang et.al.|[2610.09264](http://arxiv.org/abs/2610.09264)|null|
 |**2026-10-06**|**ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine**|Pengfei He et.al.|[2610.08951](http://arxiv.org/abs/2610.08951)|null|
-|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|**[link](https://github.com/YichiCS/Secure-Speculative-Decoding)**|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
 |**2026-10-06**|**Surviving the Router: Optimizing Skill Injections for Retrieval and Execution**|Haneen Najjar et.al.|[2610.08098](http://arxiv.org/abs/2610.08098)|null|
 |**2026-10-05**|**Towards a Unified Misuse Monitoring Benchmark**|Aniruddh Pramod et.al.|[2610.07089](http://arxiv.org/abs/2610.07089)|null|
 |**2026-10-03**|**APEX: Active Protection at Execution Boundaries for LLM Agents**|Xinran Zheng et.al.|[2610.06966](http://arxiv.org/abs/2610.06966)|null|
