@@ -489,9 +489,9 @@
 |**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-15**|**Privacy-Preserving Prompt Injection Detection for LLMs Using Federated Learning and Embedding-Based NLP Classification**|Hasini Jayathilaka et.al.|[2511.12295](http://arxiv.org/abs/2511.12295)|null|
-|**2025-11-13**|**PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**|Runpeng Geng et.al.|[2511.10720](http://arxiv.org/abs/2511.10720)|null|
+|**2025-11-13**|**PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**|Runpeng Geng et.al.|[2511.10720](http://arxiv.org/abs/2511.10720)|**[link](https://github.com/sleeepeer/PISanitizer)**|
 |**2025-11-09**|**RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework**|Seif Ikbarieh et.al.|[2511.06212](http://arxiv.org/abs/2511.06212)|null|
-|**2026-03-24**|**Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs**|Alina Fastowski et.al.|[2511.05919](http://arxiv.org/abs/2511.05919)|null|
+|**2026-03-24**|**Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs**|Alina Fastowski et.al.|[2511.05919](http://arxiv.org/abs/2511.05919)|**[link](https://github.com/afastowski/llm_attack)**|
 |**2026-01-22**|**Can LLM Infer Risk Information From MCP Server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
 |**2025-11-08**|**When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins**|Yigitcan Kaya et.al.|[2511.05797](http://arxiv.org/abs/2511.05797)|null|
 |**2026-02-18**|**Reasoning Up the Instruction Ladder for Controllable Language Models**|Zishuo Zheng et.al.|[2511.04694](http://arxiv.org/abs/2511.04694)|null|
