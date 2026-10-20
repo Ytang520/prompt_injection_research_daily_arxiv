@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
+|**2026-10-19**|**SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense**|Yinxiang Wang et.al.|[2610.26013](http://arxiv.org/abs/2610.26013)|null|
 |**2026-10-19**|**RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation**|Yuchen Chen et.al.|[2610.25937](http://arxiv.org/abs/2610.25937)|null|
 |**2026-10-18**|**SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space**|Stavros Damianakis et.al.|[2610.24999](http://arxiv.org/abs/2610.24999)|null|
 |**2026-10-16**|**SPIDES: Information-Flow Control for Browser Agents**|Egor Zverev et.al.|[2610.24277](http://arxiv.org/abs/2610.24277)|null|
