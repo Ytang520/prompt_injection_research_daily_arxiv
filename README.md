@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations**|Frank Breitinger et.al.|[2610.29747](http://arxiv.org/abs/2610.29747)|null|
 |**2026-10-21**|**Where AI Vulnerability Discovery Harnesses Go Quiet: Structural False Negatives and Hidden Vulnerabilities**|Gadi Evron et.al.|[2610.29379](http://arxiv.org/abs/2610.29379)|null|
 |**2026-10-20**|**Attention-based Classification for Indirect Prompt Injection**|Amelia Kawasaki et.al.|[2610.28988](http://arxiv.org/abs/2610.28988)|null|
 |**2026-10-20**|**Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise**|Pedro H. Barcha Correia et.al.|[2610.28810](http://arxiv.org/abs/2610.28810)|null|
