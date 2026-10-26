@@ -144,7 +144,7 @@
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
 |**2026-08-28**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
-|**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|null|
+|**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|**[link](https://github.com/nitya-prakash-pandey-2005/SAGE)**|
 |**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
 |**2026-08-24**|**AgentFlow: A Flow-Centric Policy Language and Framework for Securing LLM Agent Systems**|Basavesh Ammanaghatta Shivakumar et.al.|[2608.22868](http://arxiv.org/abs/2608.22868)|null|
 |**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|null|
@@ -583,7 +583,7 @@
 |**2025-11-15**|**Cybersecurity AI: Hacking the AI Hackers via Prompt Injection**|Víctor Mayoral-Vilches et.al.|[2508.21669](http://arxiv.org/abs/2508.21669)|null|
 |**2025-09-16**|**PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance**|Mengxiao Wang et.al.|[2508.20890](http://arxiv.org/abs/2508.20890)|null|
 |**2026-03-30**|**Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks**|Matteo Gioele Collu et.al.|[2508.20863](http://arxiv.org/abs/2508.20863)|null|
-|**2025-08-26**|**Reliable Weak-to-Strong Monitoring of LLM Agents**|Neil Kale et.al.|[2508.19461](http://arxiv.org/abs/2508.19461)|null|
+|**2025-08-26**|**Reliable Weak-to-Strong Monitoring of LLM Agents**|Neil Kale et.al.|[2508.19461](http://arxiv.org/abs/2508.19461)|**[link](https://github.com/neilkale/mrt-vercel-app)**|
 |**2025-08-25**|**Tricking LLM-Based NPCs into Spilling Secrets**|Kyohei Shiomi et.al.|[2508.19288](http://arxiv.org/abs/2508.19288)|null|
 |**2025-10-23**|**PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents**|Toby Murray et.al.|[2508.17884](http://arxiv.org/abs/2508.17884)|null|
 |**2025-08-23**|**Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents**|Derek Lilienthal et.al.|[2508.17155](http://arxiv.org/abs/2508.17155)|null|
