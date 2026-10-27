@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Then there is prompt injection, a malicious email, ...: The Wild Wide West of OpenClaw Agentic System Security**|Mostafijur Rahman Akhond et.al.|[2610.35451](http://arxiv.org/abs/2610.35451)|null|
 |**2026-10-26**|**Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition**|Weihang Niu et.al.|[2610.34777](http://arxiv.org/abs/2610.34777)|null|
 |**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
 |**2026-10-23**|**Deletion, Substitution, Repair and Transplant: Component Attribution in BARBICAN, a Layered Prompt-Injection Gateway for MCP**|İpek Abasıkeleş Turgut et.al.|[2610.33198](http://arxiv.org/abs/2610.33198)|null|
