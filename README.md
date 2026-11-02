@@ -15,9 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|**[link](https://github.com/Sizhe-Chen/SecPO)**|
 |**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
 |**2026-10-29**|**CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN**|Sunder Ali Khowaja et.al.|[2610.40744](http://arxiv.org/abs/2610.40744)|null|
-|**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|**[link](https://github.com/habib-analyst/role-spoofing)**|
+|**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|null|
 |**2026-10-29**|**SEAL: Sealed Queries for Local Sanitization against Indirect Prompt Injection**|Doohyun Kim et.al.|[2610.39758](http://arxiv.org/abs/2610.39758)|null|
 |**2026-10-29**|**REALM: Identifying Minimal Task Assets for LLM Agents**|Zihou Ren et.al.|[2610.39155](http://arxiv.org/abs/2610.39155)|null|
 |**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
