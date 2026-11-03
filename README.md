@@ -15,9 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|**[link](https://github.com/Cashcoin123/Cashcoin123)**|
+|**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
+|**2026-11-02**|**SearchInject: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search**|Kainan Zhou et.al.|[2611.02643](http://arxiv.org/abs/2611.02643)|null|
+|**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
+|**2026-11-02**|**StateFence: Task-State Protection Against Evidence-Chain Contamination in Blue-Team LLM Agents**|Haowen Dai et.al.|[2611.02605](http://arxiv.org/abs/2611.02605)|null|
+|**2026-11-02**|**Ranked but Not Stopped: Detecting Prompt-Injection Hijacks from Typed Decision Models' Output Probabilities**|Junwei Yao et.al.|[2611.02522](http://arxiv.org/abs/2611.02522)|null|
+|**2026-11-02**|**Benchmark of THReD: Evaluating an LLM Agent and Its Preprocessing Tools for Turning Electronic Health Records into AI-Ready Datasets**|Javad Mohammad Alizadeh et.al.|[2611.02484](http://arxiv.org/abs/2611.02484)|null|
+|**2026-11-02**|**LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents**|Sreehari Sankar et.al.|[2611.02332](http://arxiv.org/abs/2611.02332)|null|
+|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|null|
 |**2026-10-31**|**AgentCap: Capability-Based Runtime Authorization for Secure LLM Agent Execution**|Aravinda Kashyap Kabbinamakki Suresh et.al.|[2611.00729](http://arxiv.org/abs/2611.00729)|null|
-|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|**[link](https://github.com/Sizhe-Chen/SecPO)**|
+|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
 |**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
 |**2026-10-29**|**CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN**|Sunder Ali Khowaja et.al.|[2610.40744](http://arxiv.org/abs/2610.40744)|null|
 |**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|**[link](https://github.com/habib-analyst/role-spoofing)**|
