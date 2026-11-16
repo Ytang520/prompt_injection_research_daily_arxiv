@@ -161,7 +161,7 @@
 |**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
 |**2026-09-14**|**Approval Integrity and Recovery in LLM Answer Publication**|Faruk Alpay et.al.|[2609.15576](http://arxiv.org/abs/2609.15576)|null|
 |**2026-09-14**|**ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents**|Bingzheng Wang et.al.|[2609.14987](http://arxiv.org/abs/2609.14987)|null|
-|**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079](http://arxiv.org/abs/2609.14079)|null|
+|**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079](http://arxiv.org/abs/2609.14079)|**[link](https://github.com/MacD1998/SkillSecurer)**|
 |**2026-09-12**|**Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control**|Minsun Shim et.al.|[2609.14003](http://arxiv.org/abs/2609.14003)|null|
 |**2026-09-11**|**The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment**|Oliver Aleksander Larsen et.al.|[2609.13334](http://arxiv.org/abs/2609.13334)|null|
 |**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
